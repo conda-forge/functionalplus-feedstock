@@ -1,5 +1,5 @@
 {% set name = "FunctionalPlus" %}
-{% set version = "0.2.12" %}
+{% set version = "0.2.13" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Dobiasd/FunctionalPlus/archive/v{{ version }}-p0.tar.gz
-  sha256: 16ab39b70d89b05eb69576f0781e9a0a01195a3d04950bb0dd78a6b2e3b1d539
+  sha256: 62f61ce6500859f0d77306b1644b5c6992287688de38e170b17b8a66b2448b54
 
 build:
   number: 0
