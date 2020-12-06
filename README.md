@@ -5,9 +5,13 @@ Home: https://github.com/Dobiasd/FunctionalPlus
 
 Package license: BSL-1.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/functionalplus-feedstock/blob/master/LICENSE.txt)
 
 Summary: Functional Programming Library for C++. Write concise and readable C++ code.
+
+Development: https://github.com/Dobiasd/FunctionalPlus
+
+Documentation: http://www.editgym.com/fplus-api-search
 
 FunctionalPlus helps you write concise and readable C++ code.
 
